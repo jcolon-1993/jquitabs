@@ -1,2 +1,2 @@
 # jquitabs
-- Example if jQuery plugin implementing UI tabs
+- Example of jQuery plugin implementing UI tabs
